@@ -1,3 +1,6 @@
 git add <filename>
 git commit -m "Reason  for the commit"
 git push origin <branch_name>
+
+Pull updates
+git pull origin <branch_name>
