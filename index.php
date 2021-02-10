@@ -93,7 +93,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="clearfix"> </div>
 						<div class="head-info">
-							<h1 style="color: #399dc7;">TEKCEN</h1>
+							<h1>TEKCEN</h1>
 							<p>{quick_description_here}</p>
 							<div class="botton">
 								<a href="mailto:tekcentc@gmail.com" style="background: #399dc7; border: none;">Get in Touch</a>
